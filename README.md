@@ -21,4 +21,4 @@ Anitas_Kitchen</a>
 >
 >---------------------------
 
-&copy; SulanMwangovyaKirigha| Credits <a href="http://moringaschool.com/" title="Title">MORINGA SCHOOL</a>
+&copy; SultanMwangovyaKirigha| Credits <a href="http://moringaschool.com/" title="Title">MORINGA SCHOOL</a>
