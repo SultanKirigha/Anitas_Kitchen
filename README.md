@@ -16,8 +16,8 @@ Anita's Kitchen
 >
 >---------------------------
 >
->Link to deployed page _(click here)_<a href="https://sultanmwangoyakirigha.github.io/" title="Title">
-Anitas_Kitchen</a>
+>Link to deployed page _(click here)_<a href=https://sultanmwangoyakirigha.github.io/Anitas_Kitchen/ title="Title">
+ANITA's_KITCHEN</a>
 >
 >---------------------------
 
