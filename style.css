@@ -265,6 +265,10 @@ body{
                 margin-top: 3%;
                 color: #ffffff;
                 }
+                .happy{
+                    height: 119px;
+                    width:300px;
+                    }
             /**.overlay{
             padding: 0;
             margin: auto;
