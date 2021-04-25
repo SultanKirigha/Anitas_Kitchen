@@ -1,5 +1,6 @@
 body{
     margin: 0 auto;
+    overflow-x: hidden;
 }
 .container1{
       padding:12px ;
@@ -34,3 +35,110 @@ body{
     color: white;
     font-size: 65px;
 }
+.container2{
+    padding-top: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 300px ;
+    width: 100%;
+
+}
+.happy-hour{
+    font-size: 40px;
+    font-weight: lighter
+}
+.party-time{
+    font-size: 40px;
+    font-weight: lighter;
+}
+.Breakfast{
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, serif;
+    padding: 10px 460px;
+    position: relative;
+    top: -338px;
+    margin: 30px;
+    box-sizing: border-box;
+}
+.party-time{
+    color: white;
+    background-color: #F15A29;
+    height: 140px;
+    width: 465px;
+    padding: 10px 0 0 110px;
+    text-align: left;
+}
+
+.Lunch{
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, serif;
+    padding: 10px 910px;
+    position: relative;
+    top: -745px;
+    margin: 30px;
+    box-sizing: border-box;
+}
+.Dinner{
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, serif;
+    padding: 10px 1358px;
+    position: relative;
+    top: -1152px;
+    margin: 30px;
+    box-sizing: border-box;
+}
+.container3{
+    padding: 0;
+    width: 50%;
+    float: left;
+    min-height: 1px;
+}
+.fasts{
+    height: 505px;
+    width: 500px;
+    margin-bottom: 10%;
+    margin-left: 30%;
+    margin-right: 35%;
+    margin-top: 10%;
+    padding-top: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#text1{
+    padding: 5%;
+    text-align: left;
+    }
+#text2{
+    padding: 40px;
+    text-align: right;
+    position: absolute;
+    left: -30px;
+    }
+    .bg-10{
+        padding: 0px;
+    }
+    .button {
+        border: none;
+        color: #F15A29;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 18px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 5px;
+        }
+        
+    .button1 {
+        background-color: white;
+        color: #F15A29;
+        border: 2px solid #F15A29;
+        }
+  
