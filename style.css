@@ -142,7 +142,7 @@ body{
         border: 2px solid #F15A29;
         }
     .media2{
-        padding: 0;
+        padding: 1px;
         height: 600px;
         width:100%;
         background-image: url(Images/foodsBg.jpg);
@@ -151,11 +151,11 @@ body{
         background-size: cover;
     }
     .party{
-        height: 400px;
-        width: 80%;
+        height: 335px;
+        width: 60%;
         margin-top: 100px;
         margin-bottom: 100px;
-        margin-left: 10%;
+        margin-left: 19%;
         margin-right: 10%;
         background-color: #ffffff;
     }
@@ -165,7 +165,8 @@ body{
     }
     .partyhead{
         height: 50px;
-        width: 100%;
+        width: 72%;
+        float: right;
         background-color: #ccc;
     }
     .bg-1:hover .text {
