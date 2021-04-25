@@ -168,9 +168,27 @@ body{
         width: 100%;
         background-color: #ccc;
     }
-            .bg-1:hover .text {
-            color: #000000;
-            }
+    .bg-1:hover .text {
+        color: #000000;
+    }
+    .cust{
+        height: 260px;
+        width: 260%;
+        margin-top: 10%;
+        margin-bottom: 10%;
+        margin-left: -15%;
+        margin-right: 10%;
+        border-color: transparent;
+        border-style: solid;
+        border-width: 5px;
+        border-radius: 5px;
+        box-shadow: 0 8px 16px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+
+    #text3{
+        float: left;
+        width: 50%;
+        }
             /**.media3{
             padding: 0;
             height: 300px;
@@ -280,18 +298,6 @@ body{
             border-radius: 5px;
             box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
             }
-            .cust{
-            width: 80%;
-            margin-top: 10%;
-            margin-bottom: 10%;
-            margin-left: 10%;
-            margin-right: 10%;
-            border-color: transparent;
-            border-style: solid;
-            border-width: 5px;
-            border-radius: 5px;
-            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-            }
             .party{
             height: 400px;
             width: 80%;
@@ -300,10 +306,6 @@ body{
             margin-left: 10%;
             margin-right: 10%;
             background-color: #ffffff;
-            }
-            #burger{
-            text-align: center;
-            padding: 50px;
             }
             .partyhead{
             height: 50px;
