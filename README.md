@@ -1,7 +1,7 @@
 # Anitas_Kitchen
 Anita's Kitchen
 
->Author: Sultan Kirigha
+>Author: Sultan Mwangovya Kirigha
 >
 >---------------------------
 >
