@@ -52,7 +52,7 @@ body{
     font-weight: lighter;
 }
 .Breakfast{
-    color: white;
+    color:black;
     font-size: 40px;
     font-family: Georgia, serif;
     padding: 10px 460px;
@@ -62,7 +62,7 @@ body{
     box-sizing: border-box;
 }
 .party-time{
-    color: white;
+    color:black;
     background-color: #F15A29;
     height: 140px;
     width: 465px;
@@ -71,22 +71,22 @@ body{
 }
 
 .Lunch{
-    color: white;
+    color: black;
     font-size: 40px;
     font-family: Georgia, serif;
     padding: 10px 910px;
     position: relative;
-    top: -745px;
+    top: -698px;
     margin: 30px;
     box-sizing: border-box;
 }
 .Dinner{
-    color: white;
+    color: black;
     font-size: 40px;
     font-family: Georgia, serif;
     padding: 10px 1358px;
     position: relative;
-    top: -1152px;
+    top: -1058px;
     margin: 30px;
     box-sizing: border-box;
 }
@@ -254,6 +254,8 @@ body{
             outline: none;
             }
         .footer{
+                padding-top: 20px;
+                padding-bottom: 30px;
                 height: 300px;
                 width:100%;
                 background-color:#F15A29;
@@ -263,10 +265,10 @@ body{
                 margin-top: 3%;
                 color: #ffffff;
                 }
-                .happy{
-                    height: 119px;
-                    width:300px;
-                    }
+        .happy{
+            height: 119px;
+            width:300px;
+            }
             /**.overlay{
             padding: 0;
             margin: auto;
