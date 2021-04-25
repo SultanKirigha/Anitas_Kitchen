@@ -253,6 +253,18 @@ body{
         input:focus {
             outline: none;
             }
+        .footer{
+                padding-top: 20px;
+                padding-bottom: 30px;
+                height: 300px;
+                width:100%;
+                background-color:#F15A29;
+            }
+        .social{
+                text-align: center;
+                margin-top: 3%;
+                color: #ffffff;
+                }
             /**.overlay{
             padding: 0;
             margin: auto;
@@ -377,12 +389,7 @@ body{
             :-ms-input-placeholder {
             color: #ecf0f1;
             }
-            .footer{
-            padding: 0;
-            height: 300px;
-            width:100%;
-            background-color:#F15A29;
-            }
+            
             .social{
             text-align: center;
             margin-top: 3%;
